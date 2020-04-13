@@ -1,0 +1,23 @@
+.drift-widget-start-conversation {
+  position: absolute;
+  bottom: 125px;
+  right: 30px;
+  background: lightblue;
+  border-radius: 8px;
+  box-shadow: 1px 1px 7px #999;
+}
+
+.drift-widget-start-conversation--input-container > input {
+  outline: none;
+  border: none;
+  width: 100%;
+  border-bottom-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  height: 32px;
+  padding: 6px;
+  box-sizing: border-box;
+}
+
+.drift-widget-start-conversation--header {
+  padding: 10px 24px;
+}

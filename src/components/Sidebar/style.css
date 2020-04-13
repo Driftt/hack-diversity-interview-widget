@@ -1,0 +1,30 @@
+.drift-sidebar-container {
+  width: 30%;
+  min-width: 350px;
+  max-width: 400px;
+  position: absolute;
+  right: 30px;
+  bottom: 30px;
+  border-radius: 8px;
+  box-shadow: 1px 1px 7px #bbb;
+  height: 50%;
+}
+
+.drift-sidebar-container > * {
+  padding: 16px;
+}
+
+.drift-sidebar-container--header {
+  display: flex;
+  align-items: center;
+  height: 24px;
+  padding: 16px;
+  justify-content: space-between;
+  background: lightblue;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.drift-sidebar-header--close {
+  cursor: pointer;
+}

@@ -1,0 +1,18 @@
+.drift-sidebar-single-conversation-input {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  box-shadow: 0px -2px 8px #ddd;
+}
+
+.drift-sidebar-single-conversation-input > input {
+  width: 100%;
+  border-bottom-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+  font-size: 14px;
+  padding: 16px;
+}

@@ -29,7 +29,7 @@ If it starts correctly, your browser should automatically open to a localhost pa
 ## Your Goals
 
 1. Complete as many of the challenges as you can. 
-2. Submit your work by emailing a link to your repo to bborowski@drift.com and fdumlao@drift.com along with anything you think we should know about your submission.
+2. Submit your work by emailing a link to your repo to Drift along with anything you think we should know about your submission.
 
 # Challenges
 
